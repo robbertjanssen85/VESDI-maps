@@ -1,6 +1,6 @@
 # VESDI-maps
 
-Scripts to process and visualize vehicle delivery routes in Dutch cities using postcode data.
+Scripts to process and visualize vehicle delivery routes in Dutch cities using postcode data, based on the CBS deliveries as part of VESDI (https://www.cbs.nl/nl-nl/dossier/vesdi).
 
 ## Prerequisites
 
