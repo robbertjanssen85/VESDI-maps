@@ -2,6 +2,9 @@
 
 Scripts to process and visualize vehicle delivery routes in Dutch cities using postcode data, based on the CBS deliveries as part of VESDI (https://www.cbs.nl/nl-nl/dossier/vesdi).
 
+## Example of result of using the scripts
+<img width="1440" alt="vesdi-maps-output" src="https://github.com/user-attachments/assets/7a9054d9-0054-497b-8d86-32af3198fff5" />
+
 ## Prerequisites
 
 - Python 3.x
